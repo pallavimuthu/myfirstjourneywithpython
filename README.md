@@ -1,2 +1,2 @@
 # myfirstjourneywithpython
-My first attempt to solve simple problems in Python
+This repository has a list of simple programs that I solved to learn the Python Programming language. 
